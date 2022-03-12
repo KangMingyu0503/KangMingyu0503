@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**KangMingyu0503/KangMingyu0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=400&section=header&text=KangMingyu&fontSize=80&animation=wave)
+<p align="center">
+<a href="" target="_blank"><img src="https://img.shields.io/badge/since-2022.03.12-FFB396.svg?style=for-the-badge"></a> <a herf="" target="_blank"><img src="https://img.shields.io/badge/author-KangMingyu0503-5596FF.svg?style=for-the-badge"></a> <a href="https://www.instagram.com/to_kmg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/to_kmg/"/></a> <a href="mailto:alexkang0503@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=alexkang0503@gmail.com"/></a>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">What Language Am I Studying<h2>
+:kr: :jp: :us:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-7ACFFF?style=for-the-badge&logo=Python&logoColor=000000"/>
+
+
+<a href="" target="_blank"><img src="">
